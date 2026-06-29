@@ -19,6 +19,7 @@ function App() {
           <h1>Get started</h1>
           <h2>Hola mascotas</h2>
           <h2>guau guau guau</h2>
+          <h2>miau miau</h2>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>

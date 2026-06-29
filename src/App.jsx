@@ -18,7 +18,6 @@ function App() {
         <div>
           <h1>Get started</h1>
           <h2>Hola mascotas</h2>
-          <h2>guau guau guau</h2>
           <h2>miau miau</h2>
           <h2>los gatos tienen 7 vidas</h2>
           <p>
